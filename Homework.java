@@ -2,6 +2,13 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
+ 
+ Simple Program, ask user to enter their first name, last name, DOB, age, favorite color, etc. and 
+ will print out a string. 
+ 
+ 
+ 
+ 
  */
 package homework;
 import java.util.Scanner;
